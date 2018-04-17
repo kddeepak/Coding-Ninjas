@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Array {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int b[] = new int[5];
+		//int n =s.nextInt();
+		//System.out.println(b);//prints the base address.
+		System.out.println(b[0]);//prints the value.
+		for(int i=0;i<5;i++)
+		{
+			//System.out.println(b[5]);//going out of range.
+			b[i]=s.nextInt();
+			System.out.println(b[i]);
+		}
+		
+		/*int a[];
+		System.out.println(a);//array is not initialised here.
+*/	
+		
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Questionno7 {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int a = s.nextInt();
+		int  r;
+		
+		int c=0;
+		while(a!=0)
+		{
+			r=a%10;
+			if(r!=0)
+				c=1;
+			if(r==0 && c==0 )
+				 continue;
+			else
+				System.out.println(r);
+			
+			a=a/10;
+		}
+	}
+}

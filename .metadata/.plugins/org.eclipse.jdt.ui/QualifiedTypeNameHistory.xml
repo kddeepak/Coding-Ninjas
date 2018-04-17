@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.MinimalHTMLWriter"/>
+<fullyQualifiedTypeName name="L15.PairGeneric"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Node"/>
+<fullyQualifiedTypeName name="L16.EmptyStck"/>
+<fullyQualifiedTypeName name="L15.Node"/>
+<fullyQualifiedTypeName name="L17.BinaryTreeNode"/>
+<fullyQualifiedTypeName name="L20.TreeNode"/>
+<fullyQualifiedTypeName name="L21.MapNode"/>
+<fullyQualifiedTypeName name="L21.HashNode"/>
+<fullyQualifiedTypeName name="L20.BinaryTreeNode"/>
+<fullyQualifiedTypeName name="L17.QueueUsingLL1"/>
+<fullyQualifiedTypeName name="L17.TreeNode"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="kd1.box"/>
+<fullyQualifiedTypeName name="Treesbyself.AVLnode"/>
+<fullyQualifiedTypeName name="PriorityQueue"/>
+<fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="Graphs.MyComparator"/>
+<fullyQualifiedTypeName name="Graphs.HuffmanNode"/>
+<fullyQualifiedTypeName name="Codes.Rankers"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

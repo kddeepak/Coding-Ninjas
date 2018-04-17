@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Questionno7 {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int a = s.nextInt();
+		int  r;
+		int count=1;
+		while(a!=0)
+		{
+			r=a%10;
+			if(count!=1 && r!=0)
+				System.out.print(r);
+			a=a/10;
+		}
+	}
+}

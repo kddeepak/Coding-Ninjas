@@ -1,0 +1,48 @@
+import java.util.Scanner;
+
+public class Array {
+	public static int[] takeInput(){//fuction return integer array
+		Scanner s = new Scanner(System.in);
+		int n = s.nextInt();
+		int input[] = new int[n];
+		for(int i=0;i<5;i++)
+		{
+			//System.out.println(b[5]);//going out of range.
+			input[i]=s.nextInt();
+			//System.out.println(input[i]);
+		}
+		return input;
+	}
+	public static void printArray(int input[])
+	{
+		for(int i=0;i<input.length;i++)
+		{
+			System.out.println(input[i]);
+		}
+	}
+	public static void main(String[] args) {
+		/*Scanner s = new Scanner(System.in);
+		int b[] = new int[5];
+		//int n =s.nextInt();
+		//System.out.println(b);//prints the base address.
+		System.out.println(b[0]);//prints the value.
+		for(int i=0;i<5;i++)
+		{
+			//System.out.println(b[5]);//going out of range.
+			b[i]=s.nextInt();
+			System.out.println(b[i]);
+		}
+		
+		int a[];
+		System.out.println(a);//array is not initialised here.
+	
+		*/
+		
+		
+		
+		int input[] =takeInput();//taking the return.pointing to same array address.
+		printArray(input);
+		//System.out.println("main"+input);
+	}
+
+}

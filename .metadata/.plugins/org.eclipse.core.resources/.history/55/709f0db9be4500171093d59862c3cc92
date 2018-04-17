@@ -1,0 +1,15 @@
+
+public class Array {
+	public static void main(String[] args) {
+		int b[] = new int[5];
+		System.out.println(b);//prints the base address.
+		System.out.println(b[0]);
+		
+		/*int a[];
+		System.out.println(a);//array is not initialised here.
+*/	
+		
+		
+	}
+
+}
